@@ -470,3 +470,7 @@ IP-CIDR,216.156.0.0/16
 IP-CIDR,220.130.127.0/24
 IP-CIDR,220.255.2.0/24
 IP-CIDR,223.119.0.0/16
+# 域名关键字匹配
+# DOMAIN-KEYWORD,warthunder
+# 域名后缀匹配
+# DOMAIN-SUFFIX,warthunder.com
