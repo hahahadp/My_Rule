@@ -1,5 +1,7 @@
 # NAME: Proxy
 # 域名关键字匹配
 DOMAIN-KEYWORD,modland
+DOMAIN-KEYWORD,beamngdrivemods
 # 域名后缀匹配
 DOMAIN-SUFFIX,modland.net
+DOMAIN-SUFFIX,beamngdrivemods.com
