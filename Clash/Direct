@@ -1,0 +1,7 @@
+# NAME: Direct
+# 域名关键字匹配
+# DOMAIN-KEYWORD,ssrdogapp
+# 域名后缀匹配
+DOMAIN-SUFFIX,synology.com,DIRECT
+DOMAIN-SUFFIX,dyndns.org,DIRECT
+DOMAIN-SUFFIX,synocommunity.com,DIRECT
