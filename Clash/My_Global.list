@@ -1,11 +1,9 @@
 # NAME: Global
 # 域名关键字匹配
 DOMAIN-KEYWORD,ssrdogapp
-DOMAIN-KEYWORD,modfans
 DOMAIN-KEYWORD,ydyxcn
 # 域名后缀匹配
 DOMAIN-SUFFIX,ssrdogapp.com
 DOMAIN-SUFFIX,hosbbq.com
 DOMAIN-SUFFIX,hasmoney.org
-DOMAIN-SUFFIX,modfans.cc
 DOMAIN-SUFFIX,ydyxcn.com
