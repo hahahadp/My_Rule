@@ -1,8 +1,11 @@
 # NAME: Global
 # 域名关键字匹配
 DOMAIN-KEYWORD,ssrdogapp
+DOMAIN-KEYWORD,love-coffee
 # 域名后缀匹配
 DOMAIN-SUFFIX,ssrdogapp.com
 DOMAIN-SUFFIX,hosbbq.com
 DOMAIN-SUFFIX,hasmoney.org
+DOMAIN-SUFFIX,love-coffee.club
+DOMAIN-SUFFIX,love-coffee.life
 # DOMAIN-SUFFIX,balanceofconcepts.com
